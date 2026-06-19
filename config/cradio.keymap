@@ -1,4 +1,4 @@
-// Copyright (c) 2022 The ZMK Contributors
+// Copyright (c) 2022 The ZMK Contributorsw
 // SPDX-License-Identifier: MIT
 
 #define ZMK_POINTING_DEFAULT_MOVE_VAL 2500  // 600
